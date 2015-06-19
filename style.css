@@ -1,0 +1,15 @@
+/* style.css */
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+html, body {
+  background-color: #fcfcfc;
+  font-size: 14px;
+  font-family: 'Noto Sans Japanese', sans-serif;
+  text-align: center;
+}
+#device {
+  color: red;
+  font-size: 2rem;
+}
+#mobile {
+  color: blue;
+}
